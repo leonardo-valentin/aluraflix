@@ -8,13 +8,6 @@ Um site em que você consegue colocar um nome e um endereço de imagem que apare
 - Um comando de for ( listaManhwas.forEach(function (nome, i) )
   - Que posiciona as imagens já presentes na lista em uma div com o nome do manhwa logo abaixo
 
-# CSS
-
-- Apresentação visual para o cliente
-- Estilos para o HTML
-- Cascading Style Sheets
-  - Folha de Estilo em Cascata
-
 # function adicionarFilme()
 - Pega o nome e a url escritos pelo usuario ao clicar no botão, e os adiciona na tela caso seja uma url valida
 - Caso não seja um item repetido, e a url seja valida ele utiliza a função listarNaTela(), caso contrário ele colocará um aviso
