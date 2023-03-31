@@ -1,5 +1,9 @@
 # Aluraflix
 Um site em que você consegue colocar um nome e um endereço de imagem que aparecem na tela
+- Projeto desenvolvido durante a Imersão Alura, só que com manhwas
+
+## Tecnologias utilizadas
+- HTML, CSS e JS
 
 # Lista
 - Uma lista que recebe o nome e a url
